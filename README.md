@@ -7,10 +7,10 @@ I also enjoy working from the command line, so I will probably make some project
 
 My coding summary for those interested,
 
-- coding in Python for 12 year
+- coding in Python for 12 years
 - coding in C++ for 7 years
 - working with relational DBs in SQL for 5 years
-- learning in Go and Rust in the past months
+- working in Go and Rust in the past months
 
 and my work for the science people,
 
