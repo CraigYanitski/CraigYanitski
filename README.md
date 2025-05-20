@@ -18,3 +18,5 @@ and my work for the science people,
 - model the clumpy ISM using a statistical approach (combinatorics)
 - perform ray tracing on the resulting 3D model
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
+
