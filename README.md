@@ -18,7 +18,7 @@ and my work for the science people,
 - model the clumpy ISM using a statistical approach (combinatorics)
 - perform ray tracing on the resulting 3D model
 
-You can find more information [here](https://craigyanitski.github.io/).
+You can find more information on my [website](https://craigyanitski.github.io/).
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
 
