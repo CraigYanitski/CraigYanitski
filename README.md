@@ -26,7 +26,7 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,nvim,kubernetes,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity)](https://skillicons.dev)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
 
