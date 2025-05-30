@@ -22,11 +22,13 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,cpp,c,cmake,docker,git,bash,latex,sqlite,postgres,sklearn)](https://skillicons.dev)
+[![Tech Stack Row 1](https://skillicons.dev/icons?i=py,go,cpp,c,bash,latex)](https://skillicons.dev)
+
+[![Tech Stack Row 2](https://skillicons.dev/icons?i=cmake,docker,git,sqlite,postgres,sklearn)](https://skillicons.dev)
 
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity)](https://skillicons.dev)
+[![Learning Row 1](https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity)](https://skillicons.dev)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
 
