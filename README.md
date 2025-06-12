@@ -31,7 +31,7 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 [![Learning Row 1](https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/7a6758a8-ffe2-4d79-b589-81dd3a1294a6/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/7a6758a8-ffe2-4d79-b589-81dd3a1294a6/thumbnail" width="400">
 </p>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
