@@ -22,17 +22,30 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 
 ## Tech stack
 
-[![Tech Stack Row 1](https://skillicons.dev/icons?i=py,go,cpp,c,bash,latex)](https://skillicons.dev)
-
-[![Tech Stack Row 2](https://skillicons.dev/icons?i=cmake,docker,git,sqlite,postgres,sklearn)](https://skillicons.dev)
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,cpp,c,bash,latex" width="400" />
+  </a>
+</p>
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cmake,docker,git,sqlite,postgres,sklearn" width="400" />
+  </a>
+</p>
 
 ## Learning
 
-[![Learning Row 1](https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity)](https://skillicons.dev)
-
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity" width="400" />
+  </a>
+</p>
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7a6758a8-ffe2-4d79-b589-81dd3a1294a6/thumbnail" width="400">
 </p>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/craigyanitski)
+<p align="left">
+  <a href="https://www.buymeacoffee.com/craigyanitski" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
 
