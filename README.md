@@ -24,12 +24,12 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,cpp,c,bash,latex" width="400" />
+    <img src="https://skillicons.dev/icons?i=py,go,cpp,c,latex,bash" width="400" />
   </a>
 </p>
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,docker,git,sqlite,postgres,sklearn" width="400" />
+    <img src="https://skillicons.dev/icons?i=git,docker,sqlite,postgres,cmake,sklearn" width="400" />
   </a>
 </p>
 
@@ -37,12 +37,16 @@ You can find more information on my [website](https://craigyanitski.github.io/).
 
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,lua,neovim,kubernetes,unity" width="400" />
+    <img src="https://skillicons.dev/icons?i=js,ts,kubernetes,lua,neovim,unity" width="400" />
   </a>
 </p>
+
+---
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7a6758a8-ffe2-4d79-b589-81dd3a1294a6/thumbnail" width="400">
 </p>
+
 <p align="left">
   <a href="https://www.buymeacoffee.com/craigyanitski" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
