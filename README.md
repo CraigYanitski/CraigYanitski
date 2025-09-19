@@ -1,16 +1,16 @@
 # Welcome to my page! My name is Craig Yanitski :-)
 
 I am a computational astrophysicist with ~12 years' experience in programming.
-I have the most experience with an interpreted language like python, though I do prefer 
+I have the most experience with an interpreted language like Python, though I do prefer 
 statically typed languages like C++, Rust, and Go.
 I also enjoy working from the command line, so I will probably make some projects for bash and vim soon.
 
 My coding summary for those interested,
 
-- coding in Python for 12 years
-- coding in C++ for 7 years
+- coding in Python for 13 years
+- coding in C++ for 8 years
 - working with relational DBs in SQL for 5 years
-- working in Go and Rust in the past months
+- working in Go and Rust for the past year
 
 and my work for the science people,
 
